@@ -1,0 +1,22 @@
+{
+  "contacts": [
+    {
+      "full_name": "Darth Vader",
+      "email": "darth@skywalker.com",
+      "phone_number": "9991111111",
+      "is_friend": false
+    },
+    {
+      "full_name": "Luke Skywaler",
+      "email": "luke@skywalker.com",
+      "phone_number": "9992222222",
+      "is_friend": false
+    },
+    {
+      "full_name": "Leia Organa",
+      "email": "leia@skywalker.com",
+      "phone_number": "9993333333",
+      "is_friend": false
+    }
+  ]
+}

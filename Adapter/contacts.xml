@@ -1,0 +1,18 @@
+<contacts>
+  <contact>
+    <full_name>Darth Vader</full_name>
+    <email>darth@skywalker.com</email>
+    <phone_number>9991111111</phone_number>
+    <is_friend>false</is_friend>
+  </contact><contact>
+    <full_name>Luke Skywalker</full_name>
+    <email>luke@skywalker.com</email>
+    <phone_number>9992222222</phone_number>
+    <is_friend>false</is_friend>
+  </contact><contact>
+    <full_name>Leia Organa</full_name>
+    <email>leia@skywalker.com</email>
+    <phone_number>9993333333</phone_number>
+    <is_friend>false</is_friend>
+  </contact>
+</contacts>
